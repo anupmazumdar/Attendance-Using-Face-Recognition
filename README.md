@@ -33,6 +33,6 @@
 ![Screenshot (91)](Project%20Snap/9.png)
 
 ### Attendance in Tabular Format 
-![Attendance Records](Project%20Snap/9.png)
+![Attendance Records](Project%20Snap/7a.png)
 
 ### Just Follow Me and Star ⭐ My Repository!
