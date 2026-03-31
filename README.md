@@ -27,7 +27,7 @@
 
 ### Simple UI
 
-![Simple UI](Project%20Snap/1.png)
+![Simple UI](Project%20Snap/1.PNG)
 
 ### While taking Image
 
@@ -39,6 +39,6 @@
 
 ### Attendance in Tabular Format
 
-![Attendance Records](Project%20Snap/7a.png)
+![Attendance Records](Project%20Snap/7a.PNG)
 
 ## Just Follow Me and Star ⭐ My Repository
