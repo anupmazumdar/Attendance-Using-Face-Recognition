@@ -26,6 +26,7 @@
 ## Screenshots
 
 ### Simple UI
+
 ![Simple UI](Project%20Snap/1.png)
 
 ### While taking Image
